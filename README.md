@@ -18,8 +18,8 @@ A Streamlit-based chat interface that uses AWS Bedrock to provide documentation 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Amal-David/bedrock-sample.git
-cd bedrock-sample
+git clone https://github.com/Amal-David/bedrock-documentation-assistant.git
+cd bedrock-documentation-assistant
 ```
 
 2. Install dependencies
